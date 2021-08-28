@@ -1,0 +1,16 @@
+{
+  "name": "otptool",
+  "version": "1.0.0",
+  "description": "helper for totp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "theshadow27",
+  "license": "ISC",
+  "dependencies": {
+    "columnify": "^1.5.4",
+    "totp-generator": "0.0.9",
+    "yargs": "^17.1.1"
+  }
+}
